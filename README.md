@@ -3,10 +3,19 @@
 
 This project implements a Telegram bot integrated with n8n that receives user messages, processes them through an automated workflow, and stores relevant data in Google Sheets for persistence and tracking.
 
-![WhatsApp Image 2026-02-01 at 22 41 09](https://github.com/user-attachments/assets/ca39ec59-527d-4f3b-96a5-fb11b8a25fcc)
+<img 
+  src="https://github.com/user-attachments/assets/ca39ec59-527d-4f3b-96a5-fb11b8a25fcc" 
+  alt="Telegram Bot Chat Screenshot"
+  width="300"
+/>
 
-<img width="629" height="245" alt="image" src="https://github.com/user-attachments/assets/866f3e0b-9b50-4125-9834-bcd664df9b2a" />
+<br/>
 
+<img 
+  src="https://github.com/user-attachments/assets/866f3e0b-9b50-4125-9834-bcd664df9b2a" 
+  alt="n8n Workflow Overview"
+  width="550"
+/>
 
 **Features**
 
