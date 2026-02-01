@@ -3,6 +3,11 @@
 
 This project implements a Telegram bot integrated with n8n that receives user messages, processes them through an automated workflow, and stores relevant data in Google Sheets for persistence and tracking.
 
+<img width="629" height="245" alt="image" src="https://github.com/user-attachments/assets/623a53bd-5a59-4392-acfd-46ddf0420207" />
+
+<img width="629" height="245" alt="image" src="https://github.com/user-attachments/assets/866f3e0b-9b50-4125-9834-bcd664df9b2a" />
+
+
 **Features**
 
 Real-time message handling via Telegram Trigger
